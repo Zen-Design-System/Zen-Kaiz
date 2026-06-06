@@ -5,7 +5,7 @@
 
 A scalable design system for agencies, enterprise platforms, and modern product teams.
 
-### **[Download Zen Kaiz FREE](https://github.com/Zen-Design-System/Zen-Kalz/releases)**
+### **[Download Zen Kaiz FREE](https://github.com/Zen-Design-System/Zen-Kaiz/releases)**
 
 </div>
 
