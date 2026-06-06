@@ -3,8 +3,7 @@
 
 # **Zen Design System © 2026**
 
-A scalable design system for agencies, enterprise platforms, and modern product teams
-The system provides a robust foundation of design tokens, core UI assets, and typographic scales to streamline workflows.
+A scalable design system for agencies, enterprise platforms, and modern product teams.
 
 ### **[Download Latest Release](https://github.com/Zen-Design-System/Zen-Kalz/releases/latest)**
 
