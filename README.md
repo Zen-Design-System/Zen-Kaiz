@@ -5,29 +5,21 @@
 
 A scalable design system for agencies, enterprise platforms, and modern product teams.
 
-### **[Download Latest Release](https://github.com/Zen-Design-System/Zen-Kalz/releases/latest)**
+### **[Download Zen Kaiz FREE](https://github.com/Zen-Design-System/Zen-Kalz/releases)**
 
 </div>
 
 ## Features
 
-* **Design Tokens First:** Centralized management of colors, spacing, and typography across platforms.
-* **Developer Ergonomics:** Ready-to-use distributions mapped directly to semantic release tags.
-* **Accessibility Built-in:** Crafted with high-contrast rules and robust compliance criteria in mind.
-* **Substance Over Hype:** Designed for maximum clarity, logical alignment, and intellectual breathing room.
-* **Flexible Customization:** Built to support rapid scaling across multi-platform brand ecosystems.
+* **Multi-brand, multi-theme and multi-domain:** Whether you manage multiple sub-brands, themes, or domains, Zen adapts instantly as a single, unified source of truth across your entire product ecosystem.
+* **Logical design token architecture:** We built Zen on a structured, logical token architecture so your team can design intentionally with clear, systemic rules instead of guessing.
+* **Large library for every purpose:** We did the heavy lifting with 2,000+ components, 1,500+ icons, and 20+ templates to help you work and build immediately.
+* **AI-friendly:** We designed Zen from the ground up to bridge documentation and LLMs, making it effortless for AI tools to generate your UI accurately.
+* **One-click plugin to customize quickly:** We cut out endless manual overrides with a one-click plugin that uses pure automation to inject your unique brand identity instantly.
 
-## Formats
+## License
+Designed and developed in Vietnam 🇻🇳 © Đìzai Studio
 
-* Core system tokens in `.json` and `.css` formats
-* Vector icons and assets in `.svg` format
-* Typography packages optimized for web and desktop use
-
-## Repository Structure
-```text
-Zen-Kalz/
-├── .github/
-│   └── workflows/      # Automated CI/CD build & release pipelines
-├── assets/             # Core asset source directories
-├── docs/               # Technical specifications and usage guides
-└── README.md           # This master documentation file
+## Community
+Feel free to ask questions, log component requests, or share new ideas.
+[Let us know](https://www.facebook.com/dizaistudio)
