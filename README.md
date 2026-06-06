@@ -1,10 +1,10 @@
 
-# **Zen Design System**
+# **Zen Design System © 2026**
 
 Welcome to the **Zen Design System**, a scalable design system for agencies, enterprise platforms, and modern product teams. Zen provides designers and developers with a robust foundation of UI components, design tokens, typographic scales, and assets designed to streamline workflows and maintain brand consistency across all digital products.
 
 
-Zen Design System © 2026
+
 ---
 
 
@@ -14,8 +14,7 @@ Get started immediately by downloading our production-ready asset packages. Thes
 
 | Asset Package | Description | Action |
 | :--- | :--- | :--- |
-| **📦 Zen Kaiz Sources** | FREE package including core design tokens, icons and components. | [**Download Latest Release**](https://github.com/Zen-Design-System/Zen-Kalz/releases/latest) |
-| **📦 Zen Design System PRO ** | For organization, please contact us. 
+| **📦 Zen Kaiz Sources** | FREE package including core design tokens, icons and components. | [**Download Zen Kaiz**](https://github.com/Zen-Design-System/Zen-Kalz/releases/latest) |
 
 > 💡 **Note:** The download links above point to the absolute latest stable build managed under your GitHub Releases pipeline. They will automatically work as soon as you publish your first release!
 
@@ -38,3 +37,6 @@ Zen-Kalz/
 ├── assets/             # Core asset source directories
 ├── docs/               # Technical specifications and usage guides
 └── README.md           # This master documentation file
+
+
+
